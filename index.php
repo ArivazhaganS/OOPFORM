@@ -2,4 +2,4 @@
 echo "Hello World";
 ?>
 
-<p>Hello World In html</p>
+<h1>Hello World In html</h1>
